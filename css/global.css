@@ -61,10 +61,19 @@ header img {
 }
 .box {
   width: 30%;
-  height: 50vh;
   border: black 1px solid;
 }
 .box img {
   width: 100%;
   border: black 1px solid;
+}
+#line-con {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+#line {
+  background-color: gold;
+  height: 5px;
+  width: 200px;
 }
