@@ -53,3 +53,18 @@ header img {
 #hero p {
   text-align: center;
 }
+#three-boxes {
+  display: flex;
+  justify-content: space-between;
+  width: 70%;
+  margin: 50px auto;
+}
+.box {
+  width: 30%;
+  height: 50vh;
+  border: black 1px solid;
+}
+.box img {
+  width: 100%;
+  border: black 1px solid;
+}
